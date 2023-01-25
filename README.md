@@ -20,7 +20,7 @@ Matplotlib (for visualization)
 
 2. Clone the project repository:
 
-`git clone https://github.com/MathurUtkarsh/Automatic-Number-Plate-Detection.git`
+`git clone https://github.com/MathurUtkarsh/Automatic-Number-Plate-Recognition.git`
 
 ## Dataset
 
