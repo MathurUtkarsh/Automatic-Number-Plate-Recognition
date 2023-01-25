@@ -4,7 +4,7 @@ ANPR technology has surged in popularity in recent years due to its wide range o
 
 This project demonstrates the implementation of an Automatic Number Plate Recognition (ANPR) system using Optical Character Recognition (OCR) and computer vision techniques.
 
-##Prerequisites
+## Prerequisites
 
 Python 3.6 or higher
 OpenCV
@@ -12,7 +12,7 @@ OCR library (Tesseract, Ocrad, EasyOCR)
 Numpy
 Matplotlib (for visualization)
 
-##Installation
+## Installation
 
 1. Install the required libraries:
 
@@ -22,7 +22,7 @@ Matplotlib (for visualization)
 
 `git clone https://github.com/MathurUtkarsh/Automatic-Number-Plate-Detection.git`
 
-##Dataset
+## Dataset
 
 The dataset used for training and testing the ANPR system should contain images of license plates with their corresponding labels (i.e., the license plate number). The dataset can be obtained from various sources. You can use my dataset also or you can use my pretrained model to reduce yourk work.
 
