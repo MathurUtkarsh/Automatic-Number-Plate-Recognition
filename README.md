@@ -26,7 +26,8 @@ Matplotlib (for visualization)
 
 The dataset used for training and testing the ANPR system should contain images of license plates with their corresponding labels (i.e., the license plate number). The dataset can be obtained from various sources. You can use my dataset also or you can use my pretrained model to reduce yourk work.
 
-Conclusion
+## Conclusion
+
 This project shows how to use OCR and computer vision techniques to implement an ANPR system. The trained model can recognize license plate numbers in images and videos with high accuracy. The project can be further improved by using more advanced computer vision techniques and a larger dataset.
 
 
