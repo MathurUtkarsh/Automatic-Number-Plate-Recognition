@@ -8,7 +8,7 @@ This project demonstrates the implementation of an Automatic Number Plate Recogn
 
 Python 3.6 or higher
 OpenCV
-OCR library (Tesseract, Ocrad, EasyOCR)
+Azure OCR Api
 Numpy
 Matplotlib (for visualization)
 
