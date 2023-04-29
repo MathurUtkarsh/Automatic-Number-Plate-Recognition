@@ -4,7 +4,7 @@ import json
 import re
 url = 'https://vision.googleapis.com/v1/images:annotate?key=Your_Api_Key'
 
-# AIzaSyDrfUf8BMPMRcHQzAi1h4MZ56pGPeIeNMs
+
 
 
 def detect_license_plate(encodedImage):
